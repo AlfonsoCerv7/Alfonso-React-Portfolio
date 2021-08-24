@@ -13,7 +13,7 @@ This is my personal portfolio where you can see projects I have worked on either
 To install dependencies, run the following:
 `
 This is a deployed site, no need to install dependencies! 
-`
+` visit here!https://alfonsocerv7.github.io/Alfonso-React-Portfolio/ 
 ## Usage
 If you wish to use this repo as a base for your own portfolio, please feel free to do so. 
 ## License
